@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
